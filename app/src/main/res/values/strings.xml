@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">بانک آینده</string>
+
+    <!-- Setup screen -->
+    <string name="setup_title">راه‌اندازی اولیه</string>
+    <string name="setup_subtitle">رمز عبور و موجودی دلخواه خود را وارد کنید</string>
+    <string name="hint_password">رمز عبور</string>
+    <string name="hint_balance">موجودی (تومان)</string>
+    <string name="btn_save">ذخیره و شروع</string>
+    <string name="setup_error">لطفاً رمز و موجودی را کامل وارد کنید</string>
+
+    <!-- Login screen -->
+    <string name="login_title">بانک آینده</string>
+    <string name="login_subtitle">برای ورود رمز عبور خود را وارد کنید</string>
+    <string name="btn_login">ورود</string>
+    <string name="login_error">رمز عبور اشتباه است</string>
+    <string name="btn_reset">راه‌اندازی مجدد</string>
+
+    <!-- Dashboard -->
+    <string name="card_holder">صاحب حساب</string>
+    <string name="card_holder_name">مشتری گرامی</string>
+    <string name="card_number_masked">•••• •••• •••• ۱۲۳۴</string>
+    <string name="balance_label">موجودی حساب</string>
+    <string name="currency_toman">تومان</string>
+    <string name="action_transfer">انتقال وجه</string>
+    <string name="action_deposit">واریز</string>
+    <string name="action_withdraw">برداشت</string>
+    <string name="action_cards">کارت‌ها</string>
+    <string name="demo_notice">این یک نسخه‌ی نمایشی است و به هیچ بانکی متصل نیست</string>
+    <string name="btn_logout">خروج</string>
+</resources>
